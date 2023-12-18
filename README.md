@@ -1,2 +1,2 @@
 # Food101_image_classification_project
-It is a computer vision projcet
+In this project, I employed a transfer learning approach to build a Convolutional Neural Network (CNN) for the classification of a dataset containing 101 different food items. Utilizing the ResNet architecture, I initially performed feature extraction, leveraging the pre-trained weights to capture meaningful features from the food images. Subsequently, I fine-tuned the model to the unique characteristics of the food dataset, optimizing its performance and achieving a noteworthy accuracy of 74%. The project showcases the effectiveness of transfer learning in the context of food image classification, providing insights into the nuances of adapting pre-trained models for specific domains.
